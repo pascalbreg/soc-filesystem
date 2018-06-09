@@ -3,4 +3,4 @@ meta-angstrom,git://github.com/Angstrom-distribution/meta-angstrom,angstrom-v201
 meta-openembedded,git://github.com/Angstrom-distribution/meta-oe.git,angstrom-staging-yocto1.5,HEAD
 meta-linaro,git://git.linaro.org/openembedded/meta-linaro.git,dora,HEAD
 openembedded-core,git://github.com/Angstrom-distribution/oe-core.git,angstrom-staging-yocto1.5,HEAD
-meta-altera,https://github.com/pascalbreg/meta-altera.git,angstrom-staging-yocto1.5,HEAD
+meta-altera,https://github.com/pascalbreg/meta-altera-2.git,angstrom-staging-yocto1.5,HEAD
